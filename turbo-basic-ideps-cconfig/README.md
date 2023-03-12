@@ -5,7 +5,7 @@ This is a version of the [basic monorepo example](https://github.com/vercel/turb
 ## Installation
 
 ```sh
-npx degit jtlapp/turborepo-series/turbo-basic-ideps-config myreponame
+npx degit jtlapp/turborepo-series/turbo-basic-ideps-cconfig myreponame
 cd myreponame
 pnpm install
 turbo build

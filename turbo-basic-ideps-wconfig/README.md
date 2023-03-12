@@ -1,6 +1,6 @@
 # Turborepo starter
 
-This is an official starter Turborepo.
+Snapshot archive of Turborepo's [basic monorepo example](https://github.com/vercel/turbo/tree/main/examples/basic).
 
 ## What's inside?
 
