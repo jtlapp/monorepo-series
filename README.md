@@ -1,6 +1,6 @@
-# turborepo-series
+# monorepo-series
 
-Example monorepos for my "Sharing TypeScript with Turborepo" series
+Example monorepos for my "Sharing TypeScript with Nx and Turborepo" series
 
 ## Archive of with-tailwind
 
